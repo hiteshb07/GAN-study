@@ -2,3 +2,14 @@
 01_Simple_GAN/dataset/MNIST
 01_Simple_GAN/dataset/MNIST/raw
 01_Simple_GAN/runs
+02_DCGAN/__pycache__/model.cpython-38.pyc
+02_DCGAN/dataset/MNIST/raw/t10k-images-idx3-ubyte
+02_DCGAN/dataset/MNIST/raw/t10k-images-idx3-ubyte.gz
+02_DCGAN/dataset/MNIST/raw/t10k-labels-idx1-ubyte
+02_DCGAN/dataset/MNIST/raw/t10k-labels-idx1-ubyte.gz
+02_DCGAN/dataset/MNIST/raw/train-images-idx3-ubyte
+02_DCGAN/dataset/MNIST/raw/train-images-idx3-ubyte.gz
+02_DCGAN/dataset/MNIST/raw/train-labels-idx1-ubyte
+02_DCGAN/dataset/MNIST/raw/train-labels-idx1-ubyte.gz
+02_DCGAN/logs/fake/events.out.tfevents.1707266781.pop-os.209160.0
+02_DCGAN/logs/real/events.out.tfevents.1707266781.pop-os.209160.1
